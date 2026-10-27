@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.local/
+.bak/
+*.log
+*.tar
+*.tar.gz
