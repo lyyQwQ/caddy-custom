@@ -1,0 +1,8 @@
+# Caddy 2.11.7 custom build pins
+# Format: module path @ commit
+
+github.com/caddyserver/cache-handler @ 07d7af2130699eb840e1f4ed49ef817da4201c2e
+github.com/caddyserver/transform-encoder @ ba4124974830222da7f12a091cf11ddf4d49363f
+github.com/caddy-dns/cloudflare @ a8737d095ad5a48ca031cea6ab704057dbc2d250
+github.com/ueffel/caddy-brotli @ a11b086aedd96b143eb18ea6e84cedf909b1bd25
+github.com/WJQSERVER/caddy-ext/ratelimit @ 4b45cfcaf5edfe53b95f4d4192431fda01e9626f
